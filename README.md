@@ -1,55 +1,43 @@
-# Official髭男dism – Official髭男dism - 宿命［Official Video］
+# Official髭男dism – 宿命 (Live)
 
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[00:20.58] Hey, you let me down, but it's the last time
-[00:24.30] 'Cause I don't, don't want you here no more
-[00:30.29] Hey, you had me running and I've been around the block
-[00:34.17] But I've learned a thing or two before
-[00:53.17] 
-[00:39.04] 今までずっと
-[00:42.69] 傷ついて止まって
-[00:45.19] 泣いては誤魔化してた日々はもういらない
-[00:48.83] 私は臆病者
-[00:52.10] １人がただ怖くて
-[00:54.96] でも決めた 進むって
-[00:56.89] I'm holding on tight
-[01:06.89] 
-[00:58.97] I'm not falling
-[01:03.89] I'm not falling for it no more
-[01:07.74] My feet won't touch the ground
-[01:10.10] Your gravity will not keep me down
-[01:13.61] I'm not falling for it
-[01:15.99] No, I'm not falling for you anymore
-[01:33.49] 
-[01:19.61] Ah 君の帰りを待つ私は
-[01:23.42] 本当は何を待ってたんだろう？
-[01:29.70] もう少しだけここにいて いさせて
-[01:33.63] と願う私はもうここにいない
-[01:40.13] 
-[01:38.45] I'm not falling
-[01:43.10] I'm not falling for it no more
-[01:47.02] My feet won't touch the ground
-[01:49.62] Your gravity will not keep me down
-[01:53.25] I'm not falling for it
-[01:55.32] No, I'm not falling for you anymore
-[02:12.82] 
-[01:58.76] いつだって 2人だって
-[02:01.00] 信じた私は馬鹿だったって
-[02:03.79] 今は分かるよ もう後悔はないよ
-[02:08.65] You're a drug but I'm sober
-[02:11.19] Wiser and I'm older
-[02:12.99] So I'm holding, never held on so tight (aah)
-[02:34.99] 
-[02:19.75] I'm not falling for it no more
-[02:23.94] My feet won't touch the ground
-[02:26.34] Your gravity will not keep me down
-[02:29.64] I'm not falling
-[02:31.85] No, I'm not falling for you anymore (fall, fall)
-[02:55.85] 
-[02:39.58] I'm not falling for it no more
-[02:43.54] My feet won't touch the ground
-[02:45.81] Your gravity will not keep me down (keep me down)
-[02:51.57] No, I'm not falling for you anymore
+[00:11.90] 心臓からあふれ出した声で
+[00:17.15] 歌うメロディ 振り向いた未来
+[00:23.58] 君から あふれ出した声と
+[00:28.74] 合わさって響いた 群青の空の下
+[00:35.42] 夢じゃない 夢じゃない 涙の足跡
+[00:41.41] 嘘じゃない 嘘じゃない 泥だらけの笑顔
+[00:47.30] 夢じゃない 夢じゃない 肩を組んで叫びたい
+[00:52.77] 僕らの想い 届け！
+[00:58.94] 奇跡じゃなくていい 美しくなくていい
+[01:01.95] 生きがいってやつが光輝くから
+[01:10.82] 切れないバッテリー 魂の限り
+[01:16.13] 宿命ってやつを燃やして 暴れ出すだけなんだ
+[01:26.63] 
+[01:30.98] 沈黙が続いたイヤフォン
+[01:35.94] 自分の弱さに遠ざかってく未来
+[01:42.53] 「大丈夫」や「頑張れ」って歌詞に
+[01:47.71] 苛立ってしまった そんな夜もあった
+[01:54.34] 夢じゃない 夢じゃない あの日の悔しさと
+[02:00.43] 忘れない 忘れない 掌の爪痕
+[02:06.25] 無駄じゃない 無駄じゃない それも全て讃えたい
+[02:11.73] もうあと少し
+[02:18.13] 願いの熱さに 汗まみれになったり
+[02:23.50] 期待背負って立って 重さに臆病になるけど
+[02:29.71] 僕らの背番号 それは背中じゃなく 瞳の奥のアンサー
+[02:38.13] 重なって 照らし合ってく Forever
+[02:48.13] 
+[03:07.48] 緊張から不安が芽生えて
+[03:12.51] 根を張るみたいに 僕らを支配する
+[03:19.14] そんなものに負けてたまるかと
+[03:24.23] 今 宿命ってやつを燃やして 暴れ出す
+[03:36.08] 届け！
+[03:37.18] 奇跡じゃなくていい 美しくなくていい
+[03:42.55] 生きがいってやつが光輝くから
+[03:48.80] 切れないバッテリー 魂の限り
+[03:54.24] 宿命ってやつを燃やして 暴れ出すだけなんだ
+[04:04.74] 
+[04:19.98] ただ宿命ってやつをかざして 立ち向かうだけなんだ
 ```
